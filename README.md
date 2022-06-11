@@ -23,6 +23,8 @@
 <a href="#dev_acess">Acesso ao aplicativo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#getting_started">Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#built_using">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#to_be_built_using">Tecnologias a serem utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#apis">API's utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#members">Membros da equipe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -47,9 +49,27 @@ git clone https://github.com/moura-carlos/collab_map
 ```
 
 ## ⛏️ Tecnologias Utilizadas <a name = "built_using"></a>
+### Linguages
+- PHP
+- CSS
+- JavaScript
 
-### Mobile
+## ⛏️ Tecnologias a serem utilizadas <a name = "to_be_built_using"></a>
+-	Linguagens de Programação:  Java, C++, Objective C, PHP 5, Javascript
+-	Frameworks: Jquery , QCodo, Bootstrap, Intel XDK, React Native & JS
+-	Banco de dados: MySQL Server 5, SQLite 3
+-	Sistema Operacional: Mac OSX, Linux ou Windows Server, iOS 5 ou superior, Android 4 ou superior;
+-	Servidor WEB: IIS 7 e Apache 2
+-	Controle de versão de arquivos: Subversion SVN
+-	Documentação: MS-Office, Google Docs ;
 
+## ⛏️ API's utilizadas <a name="apis"></a>
+- Google Places API
+Para busca de nomes de estados, cidades, bairros, ruas ou endereços completos, trazendo como resultado uma latitude e longitude.
+- Google Directions API
+Traçar uma rota no mapa recebendo o ponto de partida e o ponto de destino da rota (Latitude e longitude).
+Também é possível obter o tempo médio da viagem em minutos e a distância em km.
+- Google Geocoding API
 
 ## 🤔 Como contribuir <a name = "contribute"></a>
 
